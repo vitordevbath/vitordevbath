@@ -1,0 +1,48 @@
+<svg viewBox="0 0 480 210" xmlns="http://www.w3.org/2000/svg" fill="none" role="img" aria-label="bat">
+  <defs>
+    <linearGradient id="batfill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c1c22"/>
+      <stop offset="1" stop-color="#0c0c0f"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#9A1B1B" flood-opacity="0.9"/>
+    </filter>
+  </defs>
+
+  <g id="bat" filter="url(#glow)">
+
+    <g id="wingL">
+      <path d="M 225,92 C 180,58 105,52 30,70 C 40,92 48,104 54,120 C 70,104 82,100 96,122 C 114,104 128,100 142,124 C 162,104 180,102 198,120 C 208,112 218,106 225,100 Z"
+            fill="url(#batfill)" stroke="#b3201c" stroke-width="2" stroke-linejoin="round"/>
+      <animateTransform attributeName="transform" attributeType="XML" type="rotate"
+        values="-2 225 96; 9 225 96; -2 225 96" keyTimes="0;0.5;1" dur="0.9s"
+        calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" repeatCount="indefinite"/>
+    </g>
+
+    <g id="wingR">
+      <path d="M 255,92 C 300,58 375,52 450,70 C 440,92 432,104 426,120 C 410,104 398,100 384,122 C 366,104 352,100 338,124 C 318,104 300,102 282,120 C 272,112 262,106 255,100 Z"
+            fill="url(#batfill)" stroke="#b3201c" stroke-width="2" stroke-linejoin="round"/>
+      <animateTransform attributeName="transform" attributeType="XML" type="rotate"
+        values="2 255 96; -9 255 96; 2 255 96" keyTimes="0;0.5;1" dur="0.9s"
+        calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" repeatCount="indefinite"/>
+    </g>
+
+    <path d="M 240,150 C 224,148 220,120 224,98 C 226,86 232,80 240,80 C 248,80 254,86 256,98 C 260,120 256,148 240,150 Z"
+          fill="url(#batfill)" stroke="#b3201c" stroke-width="2" stroke-linejoin="round"/>
+
+    <path d="M 226,82 L 220,61 L 237,79 Z" fill="url(#batfill)" stroke="#b3201c" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M 254,82 L 260,61 L 243,79 Z" fill="url(#batfill)" stroke="#b3201c" stroke-width="2" stroke-linejoin="round"/>
+
+    <g id="eyes" fill="#ff4d4d">
+      <circle cx="232" cy="99" r="3.6"/>
+      <circle cx="248" cy="99" r="3.6"/>
+      <animate attributeName="opacity" values="0.4;1;0.4" keyTimes="0;0.5;1" dur="1.7s"
+        calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1" repeatCount="indefinite"/>
+    </g>
+
+    <animateTransform attributeName="transform" attributeType="XML" type="translate"
+      values="0 0; 0 5; 0 0" keyTimes="0;0.5;1" dur="2.6s"
+      calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" repeatCount="indefinite"/>
+
+  </g>
+</svg>

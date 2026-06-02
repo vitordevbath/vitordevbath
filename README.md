@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vitordevbath/vitordevbath/output/github-snake-dark.svg" alt="" />
+<img src="bat.svg" width="280" alt="" />
 
 <br>
 

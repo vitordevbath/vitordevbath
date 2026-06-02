@@ -4,9 +4,9 @@
 
 # DEVBAT
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=9A1B1B&center=true&vCenter=true&width=540&lines=Building+in+the+dark.;No+noise.+No+hype.;Nothing+builds+itself.+So+I+build+it.)](https://github.com/devbat)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=9A1B1B&center=true&vCenter=true&width=540&lines=Building+in+the+dark.;No+noise.+No+hype.;Nothing+builds+itself.+So+I+build+it.)](https://github.com/vitordevbath)
 
-![visitors](https://komarev.com/ghpvc/?username=devbat&label=visitors&color=9A1B1B&style=flat-square)
+![visitors](https://komarev.com/ghpvc/?username=vitordevbath&label=visitors&color=9A1B1B&style=flat-square)
 
 </div>
 
@@ -47,12 +47,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devbat&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=9A1B1B&icon_color=9A1B1B&text_color=C9D1D9" alt="" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbat&layout=compact&hide_border=true&bg_color=0D1117&title_color=9A1B1B&text_color=C9D1D9" alt="" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vitordevbath&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=9A1B1B&icon_color=9A1B1B&text_color=C9D1D9" alt="" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordevbath&layout=compact&hide_border=true&bg_color=0D1117&title_color=9A1B1B&text_color=C9D1D9" alt="" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=devbat&hide_border=true&background=0D1117&stroke=9A1B1B&ring=9A1B1B&fire=9A1B1B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="" />
+<img src="https://streak-stats.demolab.com?user=vitordevbath&hide_border=true&background=0D1117&stroke=9A1B1B&ring=9A1B1B&fire=9A1B1B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="" />
 
 </div>
 
@@ -60,13 +60,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devbat&bg_color=0D1117&color=C9D1D9&line=9A1B1B&point=9A1B1B&area=true&hide_border=true" alt="" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitordevbath&bg_color=0D1117&color=C9D1D9&line=9A1B1B&point=9A1B1B&area=true&hide_border=true" alt="" />
 
 </div>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devbat/devbat/output/github-snake-dark.svg" alt="" />
+<img src="https://raw.githubusercontent.com/vitordevbath/vitordevbath/output/github-snake-dark.svg" alt="" />
 
 <br>
 

@@ -2,11 +2,10 @@
 
 # DEVBAT
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=9A1B1B&center=true&vCenter=true&width=540&lines=Software+Engineering+Student;Backend+%7C+Automation+%7C+Infrastructure;Building+systems+and+learning+by+shipping)](https://github.com/vitordevbath)
 
 [![Visitors](https://komarev.com/ghpvc/?username=vitordevbath&label=visitors&color=9A1B1B&style=flat-square)](https://github.com/vitordevbath)
 
-Estudante de **Engenharia de Software** com foco em backend, automação e infraestrutura.
+Estudante de **Engenharia de Software**.
 
 Gosto de transformar problemas reais em sistemas que realmente são usados, explorando desde aplicações web e integrações até automações, containers e serviços self-hosted.
 

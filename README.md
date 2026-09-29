@@ -1,38 +1,36 @@
-[![](./header.gif)](https://github.com/vitordevbath)
+<p align="center">
+  <img src="./header.jpg" width="100%" alt="devbat" />
+</p>
 
-# DEVBAT
+# devbat
 
+Software Engineering student and full-stack developer.
 
-[![Visitors](https://komarev.com/ghpvc/?username=vitordevbath&label=visitors&color=9A1B1B&style=flat-square)](https://github.com/vitordevbath)
+I build software, break it, understand why, and make it better.
 
-Estudante de **Engenharia de Software**.
+## stack
 
-Gosto de transformar problemas reais em sistemas que realmente são usados, explorando desde aplicações web e integrações até automações, containers e serviços self-hosted.
+**Languages**  
+`TypeScript` `JavaScript` `Rust` `Python` `PHP` `C++` `SQL`
 
-### ▍ Atualmente
+**Frontend**  
+`React` `Next.js` `Svelte` `Vite` `Tailwind CSS`
 
-- Desenvolvendo um **CRM** para gerenciamento e distribuição de leads
-- Criando automações e integrações para fluxos de trabalho
-- Experimentando modelos de **IA executados localmente**
-- Estudando infraestrutura, containers, redes e segurança em home lab
+**Backend & Data**  
+`Node.js` `PostgreSQL` `Supabase` `MariaDB`
 
-### ▍ Tecnologias
+**Infrastructure & Tools**  
+`Docker` `Linux` `Git` `GitHub` `Cloudflare`
 
-![PHP](https://img.shields.io/badge/PHP-9A1B1B?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-9A1B1B?style=flat-square&logo=python&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-9A1B1B?style=flat-square&logo=discord&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-9A1B1B?style=flat-square&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-9A1B1B?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-9A1B1B?style=flat-square&logo=linux&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-9A1B1B?style=flat-square&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-9A1B1B?style=flat-square&logo=git&logoColor=white)
+## competencies
 
-### ▍ GitHub
+- Full-stack development
+- Internal systems and operational tools
+- Backend architecture and database modeling
+- Automation and workflow design
+- Product-oriented development
+- Debugging, refactoring and performance work
 
-![](https://github-readme-stats.vercel.app/api?username=vitordevbath&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=9A1B1B&icon_color=9A1B1B&text_color=C9D1D9)
+## interests
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vitordevbath&layout=compact&hide_border=true&bg_color=0D1117&title_color=9A1B1B&text_color=C9D1D9)
-
-### ▍ Atividade
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=vitordevbath&bg_color=0D1117&color=C9D1D9&line=9A1B1B&point=9A1B1B&area=true&hide_border=true)
+`SaaS` `systems design` `Linux` `infrastructure` `security` `self-hosting` `local AI`

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.jpg" width="100%" alt="devbat" />
+  <img src="./header.gif" width="100%" alt="devbat" />
 </p>
 
 # devbat

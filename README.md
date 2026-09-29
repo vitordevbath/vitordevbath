@@ -8,6 +8,8 @@ Software Engineering student and full-stack developer.
 
 I build software, break it, understand why, and make it better.
 
+![visitors](https://komarev.com/ghpvc/?username=vitordevbath&label=visitors&color=24292f&style=flat-square)
+
 ## stack
 
 **Languages**  

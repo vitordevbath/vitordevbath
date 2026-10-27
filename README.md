@@ -1,12 +1,11 @@
  <p align="center">
-  <img src="./header-v2.gif" width="100%" alt="devbat" />
+  <img src="./header-v2.gif" width="70%" alt="devbat" />
 </p>
 
 # devbat
+Not here to impress, just built different.
 
 Software Engineering student and full-stack developer.
-
-I build software, break it, understand why, and make it better.
 
 ![visitors](https://komarev.com/ghpvc/?username=vitordevbath&label=visitors&color=24292f&style=flat-square)
 
@@ -73,8 +72,8 @@ I build software, break it, understand why, and make it better.
 
 ## currently exploring
 
-`Ada/SPARK` `formal methods` `cybersecurity` `WebGL` `Three.js` `Oracle Database` `AI-assisted development`
+`Ada/SPARK` `cybersecurity`
 
 ## interests
 
-`SaaS` `systems design` `backend engineering` `Linux` `infrastructure` `cybersecurity` `self-hosting` `local AI`
+`SaaS` `systems design` `backend engineering` `Linux` `infrastructure` `cybersecurity`
